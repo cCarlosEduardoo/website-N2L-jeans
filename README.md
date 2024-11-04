@@ -1,2 +1,2 @@
 # website-N2L-jeans
-Website criado atraves de um trabalho de extensão, entrei em contato com o cliente , perguntei se tinha interesse e montei esse site de acordo com as especificações que ele me pediu
+Este projeto é um website desenvolvido para a N2L jeans, uma loja localizada em Formiga,MG que oferece variedade de calças e shorts jeans masculinos e femininos, com variedade de cores e tamanho.O projeto foi realizado como parte do programa de extensão da Faculdade de Ciência da Computação do UNIFOR - MG , com o objetivo de ampliar a presença digital da loja e facilitar o acesso dos clientes aos produtos e serviços.
